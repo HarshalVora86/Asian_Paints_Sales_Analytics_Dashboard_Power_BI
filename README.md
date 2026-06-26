@@ -186,7 +186,6 @@ Each page has slicers that persist context across visuals using Power BI's cross
 Data Science & BI Analyst
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarshalVora86-181717?style=flat&logo=github)](https://github.com/HarshalVora86)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshalvora86)
 
 ---
 
